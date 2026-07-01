@@ -1,0 +1,6 @@
+{
+  "name": "Personal Workspace Assistant",
+  "description": "Access your Google Drive files, Gmail inbox, Calendar events, Tasks, Contacts, and Firestore notes, and chat with an intelligent Gemini co-pilot trained on your personal Workspace data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
